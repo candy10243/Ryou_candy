@@ -26,8 +26,6 @@ Shows your real-time typing speed straightforwardly.
 
 # 立即游玩 Play Now
 
-https://SamToki.github.io/Yamanobo-Ryou
-
 可扫描二维码：<br>
 Scan the QR code to play on mobile devices:
 
